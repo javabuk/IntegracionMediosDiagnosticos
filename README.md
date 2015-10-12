@@ -1,0 +1,2 @@
+# IntegracionMediosDiagnosticos
+Pagina de ejemplo
